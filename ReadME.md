@@ -1,6 +1,6 @@
 ###### tags: `HungPin` `SCARA`
 
-{%hackmd BJrTq20hE %}
+{%hackmd hackmd-dark-theme %}
 SCARA 機械臂 - Code
 ===
 * [回到目錄](https://hackmd.io/@HungPin/rkrrx2KLn)
@@ -33,8 +33,3 @@ IV. ROS x STM
 
 - [基本設定](https://)
 - [TroubleShooting](https://)
-
-V. 額外補充
----
-- [Gazebo 學習筆記](https://)
-- [正逆向運動學](https://)
