@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/subscriber_test.dir/test/subscriber_test.cpp.o  -o /home/scara/scara/devel/lib/rosserial_client/subscriber_test   -L/home/scara/scara/build/gtest  -Wl,-rpath,/home/scara/scara/build/gtest:/home/scara/scara/build/gtest/lib ../../gtest/lib/libgtest.so -lpthread 

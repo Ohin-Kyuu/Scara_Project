@@ -1,0 +1,2 @@
+robot:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_chibios:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_mbed:rosserial/rosserial_msgs:rosserial/rosserial_test:rosserial/rosserial_tivac:rosserial/rosserial_vex_cortex:rosserial/rosserial_vex_v5:rosserial/rosserial_windows:rosserial/rosserial_xbee:rosserial_python:rosserial_server:rosserial_stm32
+-DCATKIN_DEVEL_PREFIX=/home/scara/scara/devel -DCMAKE_INSTALL_PREFIX=/home/scara/scara/install -G Unix Makefiles

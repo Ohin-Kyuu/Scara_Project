@@ -1,0 +1,15 @@
+<launch>
+  <node pkg="robot" type="server.py" name="server"/>
+
+  <node name="serial_server" pkg="rosserial_server" type="serial_node" output="screen" respawn="true" respawn_delay="3">
+        <param name="port" value="/dev/ttyUSB0" />
+        <param name="baud" value="115200" />
+
+        <rosparam>
+            require:
+                publishers: [ ]
+                subscribers: [ joint1 ]
+        </rosparam>
+    </node>
+</launch>
+
