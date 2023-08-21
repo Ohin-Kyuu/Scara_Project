@@ -1,6 +1,5 @@
 ###### tags: `HungPin` `SCARA`
 
-{%hackmd hackmd-dark-theme %}
 SCARA 機械臂 - Code
 ===
 * [回到目錄](https://hackmd.io/@HungPin/rkrrx2KLn)
