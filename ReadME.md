@@ -1,6 +1,6 @@
 ###### tags: `HungPin` `SCARA`
 
-SCARA 機械臂 - Code
+SCARA Robot - Code
 ===
 * [回到目錄](https://hackmd.io/@HungPin/rkrrx2KLn)
 
